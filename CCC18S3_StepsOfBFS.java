@@ -4,13 +4,6 @@ import java.util.*;
 
 public class CCC18S3_StepsOfBFS {
   public static void main(String[] args) {
-    //step 1: Store map into array of ArrayList (Adjacent list)
-    //store map into 2D array
-    //step 2: Initialize step array with Integer.MAX_VALUE;
-    //step 3: Create a queue LinkedList to store the processing
-    //order
-    //step 4: poll value one by one from queue
-    //step 5: continue looking through the neighbor, if not been visited yet update neighbor step value, also add the neighbor into queue.
     Scanner sc = new Scanner(System.in);
     int R = sc.nextInt();
     int C = sc.nextInt();
