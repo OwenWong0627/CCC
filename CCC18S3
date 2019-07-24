@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.*;
 
 
-public class CCC18S3_StepsOfBFS {
+public class CCC18S3 {
   public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     int R = sc.nextInt();
