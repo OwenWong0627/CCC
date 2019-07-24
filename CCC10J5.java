@@ -1,15 +1,5 @@
 import java.io.*;
 import java.util.*;
-
-//steps for bfs
-//1. initialize distance and add starting position to the queue
-//Keep on looping until the queue is empty (no new nodes to visit)
-//  1. extract the current node from the queue (guaranteed to be closest to the start position among points in the queue)
-//  2. loop through each of the neighbours of our current node
-//    if the node has not been visited:
-//      update the distance for that node (marking it as visited)
-//      add the node to the queue
-
 public class CCC10J5 {
   
   //array storing min # of hops to get to a certain position
