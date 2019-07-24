@@ -25,10 +25,5 @@ public class CCC07J4 {
     }else{
       System.out.println("Is not an anagram.");
     }
-    
-    //      https://codeforces.com/problemset/problem/329/B
-    // https://dmoj.ca/problem/ccc06j3
-    // https://dmoj.ca/problem/ccc07s3
-    // https://dmoj.ca/problem/ccc08j4
   }
 }
